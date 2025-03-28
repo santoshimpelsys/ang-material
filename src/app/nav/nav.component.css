@@ -1,0 +1,9 @@
+.nav-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.nav-list a {
+    text-decoration: none;
+}
